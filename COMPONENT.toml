@@ -3,7 +3,7 @@ name = "SigmaOS-arch-shader-allusion-inspired-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-shader-allusion-inspired-kernel component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
